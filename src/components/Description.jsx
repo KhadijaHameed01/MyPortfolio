@@ -15,7 +15,7 @@ const Description = () => {
         whileInView={{opacity:1, y:0}}
         initial={{opacity:0, y:-100}}
         transition={{duration:0.8}}
-        className="text-neutral-300 font-small"
+        className="text-neutral-300 font-small text-justify"
         >
           {descriptionDetail}
         </motion.div>

@@ -26,7 +26,7 @@ const AboutSection = () => {
              transition={{duration:0.5}}
             className="w-full lg:w-1/2 flex justify-center items-center">
                 <div className="flex justify-center item-center lg:justify-start">
-                 <p className="my-2 max-w-xl py-6 font-light text-neutral-300 ">{description}</p>
+                 <p className="my-2 max-w-xl py-6 font-light text-neutral-300 text-justify">{description}</p>
                 </div>
      </motion.div>
    </div>
