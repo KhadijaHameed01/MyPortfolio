@@ -46,8 +46,8 @@ Let’s collaborate to build something impactful and meaningful for your brand. 
       image: portfolioWeb,
       description: "A responsive and visually appealing portfolio website showcasing my skills, experiences, and projects with smooth animations and transitions.",
       technologies: ["React", "Vite", "Framer Motion", "Tailwind CSS"],
-      github: "https://github.com/yourusername/portfolio-website", 
-      liveLink: "https://yourwebsite.com/portfolio" 
+      github: "https://github.com/KhadijaHameed01/MyPortfolio", 
+      liveLink: "https://portfoliofkahdija.netlify.app/" 
     },
     {
       title: "ToDo List App",
