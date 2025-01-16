@@ -1,5 +1,5 @@
 import { heroSectionContent } from "../assets/constant";
-import { motion } from "framer-motion"; // Fix the import path
+import { motion } from "framer-motion"; 
 
 
 const container = (delay)=>({
@@ -12,7 +12,7 @@ const container = (delay)=>({
 })
 
 const Hero = () => {
-  // Accessing the first item in the heroSectionContent array
+
   const { image, description } = heroSectionContent[0];
  
   return (
