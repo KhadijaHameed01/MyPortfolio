@@ -79,5 +79,5 @@ Let’s collaborate to build something impactful and meaningful for your brand. 
   export const conctactContent= {
     address: 'Your heart',
     phoneNo: '+92 3074558011',
-    email: 'taibakausar469@gmail.com',
+    email: 'khadijahameed250@gmail.com',
   }
