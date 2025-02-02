@@ -2,6 +2,8 @@ import { FaFacebook, FaLinkedin } from "react-icons/fa";
 import { FaGithub } from "react-icons/fa6";
 import { FaSquareUpwork } from "react-icons/fa6";
 import { TbBrandFiverr } from "react-icons/tb";
+import { FaBehance } from "react-icons/fa";
+
 const Navbar = () => {
   return (
     <nav className="mb-20 flex flex-wrap items-center justify-between py-3 px-4">
@@ -24,8 +26,11 @@ const Navbar = () => {
         <a href="https://www.upwork.com/freelancers/~013da09b047e434cf2" aria-label="Upwork" target="_blank" rel="noopener noreferrer">
         <FaSquareUpwork />
         </a>
-        <a href="https://www.fiverr.com" aria-label="Fiverr" target="_blank" rel="noopener noreferrer">
+        <a href="https://www.fiverr.com/s/rEwyYay" aria-label="Fiverr" target="_blank" rel="noopener noreferrer">
         <TbBrandFiverr />
+        </a>
+        <a href="https://www.behance.net/khadijahameed3" aria-label="Behance" target="_blank" rel="noopener noreferrer">
+        <FaBehance />
         </a>
       </div>
     </nav>
