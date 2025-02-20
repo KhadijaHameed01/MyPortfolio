@@ -2,7 +2,7 @@
 
 import AboutSection from "./components/AboutSection"
 import Contact from "./components/Contact"
-import Description from "./components/Description"
+import Counter from "./components/Counter"
 import Hero from "./components/Hero"
 import Navbar from "./components/Navbar"
 import Projects from "./components/Projects"
@@ -23,7 +23,7 @@ const App = () => {
       <Hero/>
       <AboutSection/>
       <Technologies/>
-      <Description/>
+      <Counter/>
       <Projects/>
       <Contact/>
     </div>
